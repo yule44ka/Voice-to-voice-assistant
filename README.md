@@ -28,7 +28,7 @@ voice_assistant/
 │   ├── utils.py
 ├── .env
 ├── run_voice_assistant.py
-├── setup_windows.sh
+├── setup_windows.bat
 ├── setup_linux.sh
 ├── requirements.txt
 └── README.md
