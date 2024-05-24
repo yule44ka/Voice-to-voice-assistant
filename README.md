@@ -6,7 +6,7 @@ In addition, I implemented:
 
 - Add Short-term Memory - Develop short-term memory capabilities to remember the context of ongoing sessions.
 
-It can be also used local models.
+It can be also used local model.
 
 If you don't have API key for OpenAI, you can watch my video on Google Drive or write me in [Telegram](https://t.me/yule4444ka) for testing on my laptop personally.
 
@@ -48,7 +48,7 @@ There should be:
 *For Windows:*
 
 ```shell
-    ./setup_windows.sh
+    setup_windows.bat
 ```
 
 *For Linux:*

@@ -5,7 +5,7 @@ import pygame
 import time
 import logging
 
-def record_audio(file_path, timeout=10, phrase_time_limit=5, retries=3):
+def record_audio(file_path, timeout=20, phrase_time_limit=40, retries=3):
     """
     Record audio from the microphone and save it as a WAV file.
     
